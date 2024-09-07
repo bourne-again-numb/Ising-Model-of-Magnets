@@ -1,0 +1,10 @@
+lattice_type,2Dscc
+lx,10
+ly,10
+lz,10
+tstar,2.0
+mcsteps,10000
+eqsteps,1000
+sample_freq,100
+initial_spin,1
+exchange_energy,1.0
